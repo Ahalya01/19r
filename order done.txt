@@ -1,1 +1,8 @@
-YOUR ODER WAS DONE...!
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<h1> your order was done successfully</h2>
+</body>
+</head>
+</html>
